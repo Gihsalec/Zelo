@@ -1,4 +1,4 @@
-# Zelo
+# +Zelo
 Trabalho final do curso HackaTruck
 
 Aplicativo iOS para cuidar da saúde da família em um só lugar: vacinas, medicamentos, alimentação, consultas e postos de saúde próximos.
